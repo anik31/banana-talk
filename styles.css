@@ -64,23 +64,10 @@ button{
     font-size: 15px;
     /* color: white; */
 }
-/* textarea{
-    max-width: 600px;
-    max-height: 100px;
-    display: block;
-    margin: 1rem auto;
-    padding: 1rem;
-    border: 5px var(--primary-color) solid;
-    border-radius: 2rem;
-    font-size: 20px;
-    text-align: center;
-} */
 #output,textarea{
-    /* min-width: 500px; */
-    /* min-height: 50px; */
     max-width: 600px;
-    max-height: 100px;
-    width: 100%;
+    max-height: 200px;
+    width: 70%;
     height: 100%;
     display: block;
     margin: 1rem auto;
